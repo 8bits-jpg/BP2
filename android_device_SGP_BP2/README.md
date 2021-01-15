@@ -1,4 +1,4 @@
-Unified Device Tree for Moto G Turbo (merlin)
+Unified Device Tree for SGP (BP2)
 ============================================
 
 The SGP BP2  (codenamed _"BP2"_) is a mid-range smartphone
