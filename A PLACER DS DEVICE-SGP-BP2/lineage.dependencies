@@ -1,0 +1,7 @@
+[
+  {
+    "repository":  "SGP-msm8916-common",
+    "target_path": "device/SGP/msm8916-common"
+  }
+]
+
