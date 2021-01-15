@@ -1,8 +1,8 @@
 Unified Device Tree for Moto G Turbo (merlin)
 ============================================
 
-The Motorola Moto G Turbo (codenamed _"merlin"_) is a mid-range smartphone
-from Motorola Mobility. It was released in November 2015.
+The SGP BP2  (codenamed _"BP2"_) is a mid-range smartphone
+from SGP Mobility. It was released in November 2015.
 
 Basic   | Spec Sheet
 -------:|:-------------------------
@@ -14,7 +14,7 @@ Shipped Android Version | 5.1.1
 Storage | 16 GB
 MicroSD | Up to 32 GB
 Battery | Li-Ion 2470mAh battery
-Display | 720 x 1280 pixels, 5.0 inches (~294 ppi pixel density)
+Display | 1080 x 1920 pixels, 5.0 inches (~294 ppi pixel density)
 Camera  | 13 MP, 4160 x 2340 pixels, autofocus, LED flash
 
 Copyright 2016 - The CyanogenMod Project.
